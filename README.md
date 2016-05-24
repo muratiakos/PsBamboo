@@ -106,8 +106,7 @@ which means most of the Plan cmdlets can be used for PlanBranches too, by passin
 
 ## Documentation
 Cmdlets and functions for PsBamboo have their own help PowerShell help, which
-you can read with `help <cmdlet-name>`. [PsBamboo Wiki][wiki] is also added to this project with
-some more information.
+you can read with `help <cmdlet-name>`.
 
 ## Versioning
 PsBamboo aims to adhere to [Semantic Versioning 2.0.0][semver].
@@ -118,8 +117,8 @@ feel free to contribute to this project if you have a possible fix for it.
 
 ## Development
 
-* Source hosted at [BitBucket][repo]
-* Report issues/questions/feature requests on [Bitbucket Issues][issues]
+* Source hosted at [GitHub][repo]
+* Report issues/questions/feature requests on [GitHub Issues][issues]
 
 Pull requests are very welcome! Make sure your patches are well tested with
 [Pester][pester].
@@ -139,9 +138,8 @@ Created and maintained by [Akos Murati][muratiakos] (<akos@murati.hu>).
 ## License
 Apache License, Version 2.0 (see [LICENSE][LICENSE])
 
-[repo]: https://bitbucket.org/murati-hu/psbamboo
-[wiki]: https://bitbucket.org/murati-hu/psbamboo/wiki
-[issues]: https://bitbucket.org/murati-hu/psbamboo/issues
+[repo]: https://github.com/murati-hu/PsBamboo
+[issues]: https://github.com/murati-hu/PsBamboo/issues
 [examples]: Examples/
 [bamboo]: https://www.atlassian.com/software/bamboo
 [bambooapi]: https://developer.atlassian.com/bamboodev/rest-apis
@@ -151,4 +149,4 @@ Apache License, Version 2.0 (see [LICENSE][LICENSE])
 [psget]: http://psget.net/
 [pester]: https://github.com/pester/Pester
 [psgallery]: https://www.powershellgallery.com/packages/PsBamboo/
-[download]: https://bitbucket.org/murati-hu/psbamboo/get/master.zip
+[download]: https://github.com/murati-hu/PsBamboo/archive/master.zip
